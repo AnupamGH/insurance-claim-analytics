@@ -1,0 +1,58 @@
+State,StateName,Region,SubRegion
+AK,Alaska,West,Pacific
+AL,Alabama,South,East South Central
+AR,Arkansas,South,West South Central
+AS,American Samoa,No Region,No Region
+AZ,Arizona,West,Mountain
+CA,California,West,Pacific
+CO,Colorado,West,Mountain
+CT,Connecticut,NorthEast,New England
+DC,District of Columbia,South,South Atlantic
+DE,Delaware,South,South Atlantic
+FL,Florida,South,South Atlantic
+GA,Georgia,South,South Atlantic
+GU,Guam,No Region,No Region
+HI,Hawaii,West,Pacific
+IA,Iowa,MidWest,West North Central
+ID,Idaho,West,Mountain
+IL,Illinois,MidWest,East North Central
+IN,Indiana,MidWest,East North Central
+KS,Kansas,MidWest,West North Central
+KY,Kentucky,South,East South Central
+LA,Louisiana,South,West South Central
+MA,Massachusetts,NorthEast,New England
+MD,Maryland,South,South Atlantic
+ME,Maine,NorthEast,New England
+MI,Michigan,MidWest,East North Central
+MN,Minnesota,MidWest,West North Central
+MO,Missouri,MidWest,West North Central
+MP,Northern Mariana Islands,No Region,No Region
+MS,Mississippi,South,East South Central
+MT,Montana,West,Mountain
+NA,National,No Region,No Region
+NC,North Carolina,South,South Atlantic
+ND,North Dakota,MidWest,West North Central
+NE,Nebraska,MidWest,West North Central
+NH,New Hampshire,NorthEast,New England
+NJ,New Jersey,NorthEast,Mid-Atlantic
+NM,New Mexico,West,Mountain
+NV,Nevada,West,Mountain
+NY,New York,NorthEast,Mid-Atlantic
+OH,Ohio,MidWest,East North Central
+OK,Oklahoma,South,West South Central
+OR,Oregon,West,Pacific
+PA,Pennsylvania,NorthEast,Mid-Atlantic
+PR,Puerto Rico,No Region,No Region
+RI,Rhode Island,NorthEast,New England
+SC,South Carolina,South,South Atlantic
+SD,South Dakota,MidWest,West North Central
+TN,Tennessee,South,East South Central
+TX,Texas,South,West South Central
+UT,Utah,West,Mountain
+VA,Virginia,South,South Atlantic
+VI,Virgin Islands,No Region,No Region
+VT,Vermont,NorthEast,New England
+WA,Washington,West,Pacific
+WI,Wisconsin,MidWest,East North Central
+WV,West Virginia,South,South Atlantic
+WY,Wyoming,West,Mountain
